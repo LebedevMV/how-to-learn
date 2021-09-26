@@ -1,0 +1,10 @@
+.header__main__illustration {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  background-image: url('../../../images/two_again.png');
+  background-size: cover;
+  z-index: 5;
+  width: 765px;
+  height: 608px;
+}
