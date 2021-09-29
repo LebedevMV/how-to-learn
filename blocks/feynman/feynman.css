@@ -3,8 +3,9 @@
   background-image: url('../../images/feinman.png');
   background-size: 867px 637px;
   background-position: left bottom;
-  height: 890px;
+  min-height: 890px;
   background-repeat: no-repeat;
   padding-top: 100px;
   position: relative;
+  box-sizing: border-box;
 }

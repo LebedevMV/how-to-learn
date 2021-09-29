@@ -3,10 +3,11 @@
   line-height: 42px;
   font-weight: normal;
   text-decoration: none;
-  color: #3a7be7;
+  color: #2f80ed;
   margin: 0 0 0 48px;
+  align-self: start;
 }
 
-.feynman__link:hover {
+.khan__buy-link:hover {
   opacity: 0.6;
 }
